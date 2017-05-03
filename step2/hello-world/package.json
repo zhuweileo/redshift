@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage":"https://zhuweileo.github.io/redshift/step2/build/"
+  "homepage":"https://zhuweileo.github.io/redshift/step2/hello-world/build/"
 }
